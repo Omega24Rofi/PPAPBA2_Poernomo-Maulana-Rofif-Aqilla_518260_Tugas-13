@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "pertemuan-13"
+rootProject.name = "KPU"
 include(":app")
  

@@ -1,4 +1,4 @@
-package com.example.pertemuan_13
+package com.dimalahmad.kpu
 
 import org.junit.Test
 
